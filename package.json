@@ -1,0 +1,24 @@
+{
+  "name": "jalso-website",
+  "version": "1.0.0",
+  "description": "Webpage for jalso.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharliFrank/jalso-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharliFrank/jalso-website/issues"
+  },
+  "homepage": "https://github.com/CharliFrank/jalso-website#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
